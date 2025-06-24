@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello! I'm Md. Muhib Ullah Habib
 
-<!--
-**mdmuhibullahhabib/mdmuhibullahhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at **Daffodil International University**  
+Currently, I am exploring Next.js and TypeScript to enhance my full-stack development skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, GitHub, Netlify, Vercel, VS Code
+
+---
+
+## 🌱 Currently Learning
+- Next.js
+- Advanced React
+- JWT Authentication
+
+---
+
+## 📫 Contact Me
+- 🌐 Portfolio: 
+- 📧 Email: mdmuhibullahhabib6348@gmail.com
+- 🔗 LinkedIn: 
+
+---
+
+> "Code is the language of logic and creativity."
+
