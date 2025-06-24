@@ -49,19 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhibullahHabib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhibullahHabib&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhibullahHabib&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - 🔁 Next.js & Server-Side Rendering  
