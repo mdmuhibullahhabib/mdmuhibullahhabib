@@ -73,21 +73,21 @@
 
 ## 📈 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuhibullahHabib&color=blue&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/MuhibullahHabib?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/MuhibullahHabib?label=Followers&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mdmuhibullahhabib&color=blue&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/mdmuhibullahhabib?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/mdmuhibullahhabib?label=Followers&style=flat-square)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhibullahHabib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhibullahHabib&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmuhibullahhabib&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdmuhibullahhabib&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhibullahHabib&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmuhibullahhabib&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhibullahHabib&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmuhibullahhabib&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
