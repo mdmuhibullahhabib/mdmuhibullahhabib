@@ -83,7 +83,6 @@
 
 - ✅ Complete multiple full-stack projects (MERN stack)
 - ✅ Contribute to 5+ open-source projects
-- ✅ Launch my own developer portfolio website
 - ✅ Get an internship or remote job as a junior developer
 
 ---
