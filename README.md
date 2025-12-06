@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Muhibullah Habib</h1>
+<h1 align="center">Hi there! 👋 I'm Md Muhib Ullah Habib</h1>
 
 <p align="center">
   🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 Tech Explorer | 🇧🇩 From Bangladesh
