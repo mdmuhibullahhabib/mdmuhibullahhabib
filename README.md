@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Studying **Software Engineering** at **Daffodil International University (DIU)**
-- ✅ Graduate of **Programming Hero Web Development Course**
 - 💡 Strong interest in **Full-Stack Web Development**, **Open Source**, and **Clean Code**
 - 👨‍🏫 Always eager to learn and improve through projects and collaboration
 - 🌍 I believe in building tech that creates positive real-world impact
